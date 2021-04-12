@@ -9,3 +9,4 @@ Read 3 | Maps, primitives, File I/O | [Topic 3](https://aseel-banna.github.io/co
 Read 4 | OOP | [Topic 4](https://aseel-banna.github.io/code-401-reading-notes/class-04) 
 Read 5 | Linked List | [Topic 5](https://aseel-banna.github.io/code-401-reading-notes/class-05) 
 Read 6 | Inheritance and Interfaces | [Topic 6](https://aseel-banna.github.io/code-401-reading-notes/class-06)
+Read 8 | OO Design | [Topic 8](https://aseel-banna.github.io/code-401-reading-notes/class-08)
