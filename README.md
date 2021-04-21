@@ -15,6 +15,7 @@ Read 10 | Stacks and Queues | [Topic 10](https://aseel-banna.github.io/code-401-
 Read 11 | Spring MVC | [Topic 11](https://aseel-banna.github.io/code-401-reading-notes/class-11)
 Read 12 | Spring RequestMapping | [Topic 12](https://aseel-banna.github.io/code-401-reading-notes/class-12)
 Read 13 | Related Resources and Integration Testing | [Topic 13](https://aseel-banna.github.io/code-401-reading-notes/class-13)
+Read 15 | Trees | [Topic 15](https://aseel-banna.github.io/code-401-reading-notes/class-15)
 
 
 
