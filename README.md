@@ -16,6 +16,7 @@ Read 11 | Spring MVC | [Topic 11](https://aseel-banna.github.io/code-401-reading
 Read 12 | Spring RequestMapping | [Topic 12](https://aseel-banna.github.io/code-401-reading-notes/class-12)
 Read 13 | Related Resources and Integration Testing | [Topic 13](https://aseel-banna.github.io/code-401-reading-notes/class-13)
 Read 15 | Trees | [Topic 15](https://aseel-banna.github.io/code-401-reading-notes/class-15)
+Read 16 | Spring Security Architecture | [Topic 16](https://aseel-banna.github.io/code-401-reading-notes/class-16)
 
 
 
