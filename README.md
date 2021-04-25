@@ -17,6 +17,7 @@ Read 12 | Spring RequestMapping | [Topic 12](https://aseel-banna.github.io/code-
 Read 13 | Related Resources and Integration Testing | [Topic 13](https://aseel-banna.github.io/code-401-reading-notes/class-13)
 Read 15 | Trees | [Topic 15](https://aseel-banna.github.io/code-401-reading-notes/class-15)
 Read 16 | Spring Security Architecture | [Topic 16](https://aseel-banna.github.io/code-401-reading-notes/class-16)
+Read 17 | Spring Boot and OAuth2 | [Topic 17](https://aseel-banna.github.io/code-401-reading-notes/class-17)
 
 
 
