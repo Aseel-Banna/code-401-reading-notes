@@ -18,6 +18,7 @@ Read 13 | Related Resources and Integration Testing | [Topic 13](https://aseel-b
 Read 15 | Trees | [Topic 15](https://aseel-banna.github.io/code-401-reading-notes/class-15)
 Read 16 | Spring Security Architecture | [Topic 16](https://aseel-banna.github.io/code-401-reading-notes/class-16)
 Read 17 | Spring Boot and OAuth2 | [Topic 17](https://aseel-banna.github.io/code-401-reading-notes/class-17)
+Read 18 | Web App Security | [Topic 18](https://aseel-banna.github.io/code-401-reading-notes/class-18)
 
 
 
