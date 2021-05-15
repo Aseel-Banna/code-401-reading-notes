@@ -20,6 +20,9 @@ Read 16 | Spring Security Architecture | [Topic 16](https://aseel-banna.github.i
 Read 17 | Spring Boot and OAuth2 | [Topic 17](https://aseel-banna.github.io/code-401-reading-notes/class-17)
 Read 18 | Web App Security | [Topic 18](https://aseel-banna.github.io/code-401-reading-notes/class-18)
 Read 19 | Spring and Sockets | [Topic 19](https://aseel-banna.github.io/code-401-reading-notes/class-19)
+Read 26 | Android Fundamentals | [Topic 26](https://aseel-banna.github.io/code-401-reading-notes/class-26)
+
+
 
 
 
