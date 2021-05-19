@@ -24,6 +24,8 @@ Read 26 | Android Fundamentals | [Topic 26](https://aseel-banna.github.io/code-4
 Read 27 | Intents, Activities, and SharedPreferences | [Topic 27](https://aseel-banna.github.io/code-401-reading-notes/class-27)
 Read 28 | RecyclerView | [Topic 28](https://aseel-banna.github.io/code-401-reading-notes/class-28)
 Read 29 | Rooms | [Topic 29](https://aseel-banna.github.io/code-401-reading-notes/class-29)
+Read 30 | Hash Table | [Topic 30](https://aseel-banna.github.io/code-401-reading-notes/class-30)
+
 
 
 
