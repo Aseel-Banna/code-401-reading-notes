@@ -25,6 +25,8 @@ Read 27 | Intents, Activities, and SharedPreferences | [Topic 27](https://aseel-
 Read 28 | RecyclerView | [Topic 28](https://aseel-banna.github.io/code-401-reading-notes/class-28)
 Read 29 | Rooms | [Topic 29](https://aseel-banna.github.io/code-401-reading-notes/class-29)
 Read 30 | Hash Table | [Topic 30](https://aseel-banna.github.io/code-401-reading-notes/class-30)
+Read 31 | Android Tests | [Topic 31](https://aseel-banna.github.io/code-401-reading-notes/class-31)
+
 
 
 
