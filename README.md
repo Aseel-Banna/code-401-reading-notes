@@ -27,6 +27,10 @@ Read 29 | Rooms | [Topic 29](https://aseel-banna.github.io/code-401-reading-note
 Read 30 | Hash Table | [Topic 30](https://aseel-banna.github.io/code-401-reading-notes/class-30)
 Read 31 | Android Tests | [Topic 31](https://aseel-banna.github.io/code-401-reading-notes/class-31)
 Read 32 | Serverless and Amplify | [Topic 32](https://aseel-banna.github.io/code-401-reading-notes/class-32)
+Read 33 | API (GRAPHQL) | [Topic 33](https://aseel-banna.github.io/code-401-reading-notes/class-33)
+Read 34 | Android Monetization | [Topic 34](https://aseel-banna.github.io/code-401-reading-notes/class-34)
+
+
 
 
 
