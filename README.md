@@ -29,6 +29,8 @@ Read 31 | Android Tests | [Topic 31](https://aseel-banna.github.io/code-401-read
 Read 32 | Serverless and Amplify | [Topic 32](https://aseel-banna.github.io/code-401-reading-notes/class-32)
 Read 33 | API (GRAPHQL) | [Topic 33](https://aseel-banna.github.io/code-401-reading-notes/class-33)
 Read 34 | Android Monetization | [Topic 34](https://aseel-banna.github.io/code-401-reading-notes/class-34)
+Read 35 | Graph | [Topic 35](https://aseel-banna.github.io/code-401-reading-notes/class-35)
+
 
 
 
