@@ -17,34 +17,34 @@
         `Amplify.addPlugin(new AWSCognitoAuthPlugin());`</br>
         `Amplify.configure(getApplicationContext());`</br>
      * Add this code in your onCreate method in MainActivity to make sure that your app is running: </br>
-        `Amplify.Auth.fetchAuthSession(`
-            ` result -> Log.i("AmplifyQuickstart", result.toString()),`
-            ` error -> Log.e("AmplifyQuickstart", error.toString()));`
+        `Amplify.Auth.fetchAuthSession(`</br>
+            `result -> Log.i("AmplifyQuickstart", result.toString()),`</br>
+            `error -> Log.e("AmplifyQuickstart", error.toString()));`</br>
      * Then you have to set your username, password, ...etc.
 * Every user has his/her own username and password, you can use this code to register a user:
-  `AuthSignUpOptions options = AuthSignUpOptions.builder()`
-  `  .userAttribute(AuthUserAttributeKey.email(), "my@email.com")`
-   ` .build();`
-`Amplify.Auth.signUp("username", "Password123", options,`
-  `  result -> Log.i("AuthQuickStart", "Result: " + result.toString()),`
-   ` error -> Log.e("AuthQuickStart", "Sign up failed", error)`
-`);`
+  `AuthSignUpOptions options = AuthSignUpOptions.builder()`</br>
+  `.userAttribute(AuthUserAttributeKey.email(), "my@email.com")`</br>
+   `.build();`</br>
+`Amplify.Auth.signUp("username", "Password123", options,`</br>
+  `result -> Log.i("AuthQuickStart", "Result: " + result.toString()),`</br>
+   `error -> Log.e("AuthQuickStart", "Sign up failed", error)`</br>
+`);`</br>
 
 * These line of codes use to confirm the sign up operation
- `Amplify.Auth.confirmSignUp(`
-   ` "username",`
-   ` "the code you received via email",`
-   ` result -> Log.i("AuthQuickstart", result.isSignUpComplete() ? "Confirm signUp succeeded" : "Confirm sign up not complete"),`
-    `error -> Log.e("AuthQuickstart", error.toString())`
-`);`
+ `Amplify.Auth.confirmSignUp(`</br>
+   `"username",`</br>
+   `"the code you received via email",`</br>
+   `result -> Log.i("AuthQuickstart", result.isSignUpComplete() ? "Confirm signUp succeeded" : "Confirm sign up not complete"),`</br>
+    `error -> Log.e("AuthQuickstart", error.toString())`</br>
+`);`</br>
 
 * If the operation is succeed, this will be shown in the console window
 * These line of codes use to confirm the sign in operation
-`Amplify.Auth.signIn(`
-    `"username",`
-    ` "password",`
-   ` result -> Log.i("AuthQuickstart", result.isSignInComplete() ? "Sign in succeeded" : "Sign in not complete"),`
-   ` error -> Log.e("AuthQuickstart", error.toString())`
-`);`
+`Amplify.Auth.signIn(`</br>
+    `"username",`</br>
+    `"password",`</br>
+   `result -> Log.i("AuthQuickstart", result.isSignInComplete() ? "Sign in succeeded" : "Sign in not complete"),`</br>
+   `error -> Log.e("AuthQuickstart", error.toString())`</br>
+`);`</br>
 * If the operation is succeed, this will be shown in the console window too.
 
