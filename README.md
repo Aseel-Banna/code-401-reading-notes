@@ -32,6 +32,8 @@ Read 34 | Android Monetization | [Topic 34](https://aseel-banna.github.io/code-4
 Read 35 | Graph | [Topic 35](https://aseel-banna.github.io/code-401-reading-notes/class-35)
 Read 36 | Cognito | [Topic 36](https://aseel-banna.github.io/code-401-reading-notes/class-36)
 Read 37 | Amazon S3 | [Topic 37](https://aseel-banna.github.io/code-401-reading-notes/class-37)
+Read 38 | Notification | [Topic 38](https://aseel-banna.github.io/code-401-reading-notes/class-38)
+
 
 
 
