@@ -34,6 +34,8 @@ Read 36 | Cognito | [Topic 36](https://aseel-banna.github.io/code-401-reading-no
 Read 37 | Amazon S3 | [Topic 37](https://aseel-banna.github.io/code-401-reading-notes/class-37)
 Read 38 | Notification | [Topic 38](https://aseel-banna.github.io/code-401-reading-notes/class-38)
 Read 41 | Intent Filters | [Topic 41](https://aseel-banna.github.io/code-401-reading-notes/class-41)
+Read 42 | Locations | [Topic 42](https://aseel-banna.github.io/code-401-reading-notes/class-42)
+
 
 
 
